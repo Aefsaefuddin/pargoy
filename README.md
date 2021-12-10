@@ -29,5 +29,6 @@ print("Assalamualaikum \n", "My Name is", namalengkap, ", but you can call me", 
 ## *Output*
 Ketika Kita Sudah Memasukan Data-data yang Diinginkan selanjutnya kita *Run* lalu kita masukan Data Diri Kita. Maka Tampilannya Seperti yang Ada Dibawah Ini.
 
-
 ![img](screenshot/ss.png)
+
+## **Sekian dan Terima Kasih**
