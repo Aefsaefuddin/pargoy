@@ -1,4 +1,5 @@
 # **Tugas Pemrograman**
+Tugas Ke-3 Pertemuan Ke-5
 
 ```sh
 Nama    : Aef Saefuddin
@@ -8,7 +9,7 @@ Matkul  : Pemrograman
 ```
 
 # **Latihan**
-Cara Menginputkan Data Diri dan Pekenalan Menggunakan *Python*.
+Cara Menginputkan. Tipe data, variable, operasi input output, dan operator dasar Data Diri dan Pekenalan Menggunakan *Python*.
 
 ## *Syntax*
 Dibawah Ini adalah *Syntax* atau pemrograman bagaimacara menginputkan *Data*.
